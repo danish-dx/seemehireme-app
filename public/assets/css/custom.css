@@ -1,0 +1,85 @@
+.signup-icon {
+    width: 16px;
+}
+
+.span-text-header {
+    font-size: 14px;
+}
+
+.search-input-header {
+    border-top-left-radius: 25px !important;
+    border-bottom-left-radius: 25px !important;
+}
+
+.search-input-header-icon {
+    border-top-right-radius: 25px !important;
+    border-bottom-right-radius: 25px !important;
+    cursor: pointer;
+}
+
+.header-pill-btn {
+    padding: 6px 20px;
+    background-color: #ca2514;
+    color: #FFFFFF;
+    border-radius: 10px;
+    text-decoration: none !important;
+    text-transform: uppercase;
+}
+
+.for-employer-btn {
+    padding: 6px 20px;
+    background-color: #f2871a;
+    color: #FFFFFF;
+    border-radius: 10px;
+    text-decoration: none !important;
+    text-transform: uppercase;
+}
+
+.for-dream-job-btn {
+    padding: 6px 20px;
+    background-color: #f2871a;
+    color: #FFFFFF;
+    border-radius: 10px;
+    text-decoration: none !important;
+    text-transform: uppercase;
+}
+
+.flex-container-hero-section {
+    height: 500px;
+    background-color: #f2871a;
+    background-image: linear-gradient( 162deg, #f2871a 50%, #909090 50%);
+}
+
+.hero-left {
+    font-size: 20px;
+    color: #000000;
+}
+
+.how-its-work {
+    background-color: #FFFFFF;
+    color: #f2871a;
+    font-weight: bold;
+    border-radius: 10px;
+    width: 180px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    text-transform: uppercase;
+    padding: 8px 8px;
+}
+
+.how-its-work:hover {
+    background-color: #333333;
+}
+
+.monitor-size {
+    width: 500px;
+    height: 380px;
+}
+
+.candidate-video-play-btn-for-home {
+    width: 460px;
+    height: 330px;
+    background-color: #000000;
+    margin-top: -70%;
+}
